@@ -1,27 +1,3 @@
-Skip to main content
-Google Classroom
-Classroom
-CH230 2023 batch
-Home
-Calendar
-Gemini Education
-Enrolled
-To-do
-G
-GE109
-B
-BM 101-2025 Jan
-A
-C
-CH231-Fluid-Heat-Mass-Transfer-Lab(FHMT-Lab)-2025
-C
-CH203 (Heat and Mass Transfer)
-2024-25 (Semester 2)
-C
-CH230 2023 batch
-Archived classes
-Settings
-Assignment 6
 function butane_isomerization()
     % Main function to run the butane isomerization reactor simulation
     % for two different coolant temperatures and visualize the results.
@@ -130,25 +106,3 @@ disp('Maximum conversion achieved in Reactor I: 0.275 mol/L');
 disp('Maximum temperature achieved in Reactor II: 361.207 K');
 disp('Maximum conversion achieved in Reactor II: 0.46 mol/L');
 
-Nikhil_Week6Ques1.m
-Page 1 of 1 
-Assignment 6
-Dr. Arghya Banerjee
-•
-Sep 11, 2024
-20 points
-Due Sep 26, 2024, 11:59 PM
-
-Assignment 6.pdf
-PDF
-Class comments
-Your work
-Turned in
-
-Nikhil_Week6Ques1.m
-Objective-C
-
-Nikhil_Week6Ques1.pdf
-PDF
-Work cannot be turned in after the due date
-Private comments
