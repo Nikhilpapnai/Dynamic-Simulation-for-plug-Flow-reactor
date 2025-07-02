@@ -110,5 +110,5 @@ Where:
 
 ## Author
 
-Nikhil Panajai  
+Nikhil Papnai
 Chemical Engineering Enthusiast | Process Simulation | MATLAB Developer
