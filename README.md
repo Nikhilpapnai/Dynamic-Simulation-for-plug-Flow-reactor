@@ -110,7 +110,7 @@ Where:
 
 ## Author
 
-Nikhil Papnai
+- Nikhil Papnai
 Chemical Engineering Enthusiast | Process Simulation | MATLAB Developer
-Arnav Dubey
+- Arnav Dubey
 Chemical Engineer | Process Simulation | MATLAB Developer
