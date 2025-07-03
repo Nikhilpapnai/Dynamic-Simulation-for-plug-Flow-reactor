@@ -111,6 +111,6 @@ Where:
 ## Author
 
 - Nikhil Papnai
-Chemical Engineering Enthusiast | Process Simulation | MATLAB Developer
+(Chemical Engineering Enthusiast | Process Simulation | MATLAB Developer)
 - Arnav Dubey
-Chemical Engineer | Process Simulation | MATLAB Developer
+(Chemical Engineer | Process Simulation | MATLAB Developer)
